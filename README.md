@@ -14,8 +14,9 @@ I am third year student pursuing my Bachelors in Computer Science from CMRIT,Ban
 <!-- - 💬 Ask me about ... -->
 - I can write code and make things work using Python, HTML, CSS,Javscript and other tools.
 
-You can always reach out to me through any one of these handles./
-[LinkedIn](https://www.linkedin.com/in/veereshbv04/)
+You can always reach out to me through any one of these handles or mail me at veereshbv04@gmail.com .
+- [LinkedIn](https://www.linkedin.com/in/veereshbv04/)
+- [Twitter](https://twitter.com/veereshbv04)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
