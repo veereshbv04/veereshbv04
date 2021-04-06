@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 </hr>
-<!--
-**veereshbv04/veereshbv04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am third year student pursuing my Bachelors in Computer Science from CMRIT,Bangaluru .
 
@@ -14,4 +13,4 @@ I am third year student pursuing my Bachelors in Computer Science from CMRIT,Ban
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
