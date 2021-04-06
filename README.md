@@ -5,7 +5,7 @@
 
 I am third year engineering student pursuing my Bachelors in Computer Science from CMRIT, Banglore.
 
-- I am Currently working on web and flutter technologies,by building projects .You can check them all in my repository.
+- I am Currently Learning Web and Flutter technologies,by building projects .You can check them all in my repository.
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
