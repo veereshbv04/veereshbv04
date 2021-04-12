@@ -16,9 +16,7 @@
 
 - All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my portfolio site.
 - If you want to talk to me ,discuss anything or if you have any opportunity for me ,then you you can contact me through any one of these handles .
-- [veereshbv04@gmail.com](veereshbv04@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/veereshbv04/)
-- [Twitter](https://twitter.com/veereshbv04)
+- veereshbv04@gmail.com                     [LinkedIn](https://www.linkedin.com/in/veereshbv04/)                    [Twitter](https://twitter.com/veereshbv04)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
