@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- Currently I am upskilling my JavaScript Knowledge by building number of side projects by learning online, and I want to become Full Stack Developer.
+- Currently I am upskilling my JavaScript Knowledge by building number of side projects by learning online.
 
 - All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my portfolio site.
 - If you want to talk to me ,discuss anything or if you have any opportunity for me ,then you you can contact me through any one of these handles .
