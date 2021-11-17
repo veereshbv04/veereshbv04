@@ -1,24 +1,39 @@
-### Hi, I am Veeresh 👋
+# Hi, I am Veeresh B V 👋
 
 </hr>
+I am a final year Computer Science Student from Bengaluru. I enjoy writing code. <br>
+I have interest in Web Development and currently improving my skills on it.
+I have also worked on Android development using Flutter.<br>
 
-- An ambitious student pursuing my penultimate year in Bachelors of Technology in Computer Science from CMRIT ,Bangalore. I am a budding Web Developer, Python Programmer.
+ All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my [portfolio site.](https://veereshbv.netlify.app/) <br>
 
-- I have good understanding of HTML,CSS and I have worked on them by building projects.
-- I have also worked on Android Application Development using Flutter Framework 
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- Currently I am upskilling my JavaScript Knowledge by building number of side projects by learning online.
+Recently I have developed my interest in writing Techniical Blogs, you can check them here at [Hashnode](https://veereshbv04.hashnode.dev/)
 
-- All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my portfolio site.
-- If you want to talk to me ,discuss anything or if you have any opportunity for me ,then you you can contact me through any one of these handles .
-- Mail : veereshbv04@gmail.com   
+
+
+## My Skills
+<p>
+  
+  <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" height = "30" weight="40">
+  <img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" height = "30" weight="40">
+  <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" height = "30" weight="40">
+  <img src="https://camo.githubusercontent.com/cb05dda3b8ed3fcb5c24d4aafc0b6ea979f73261b9fa0b94838271a7db6d43da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3442384242453f266c6f676f3d507974686f6e266c6f676f436f6c6f723d666666" alt="Python"height = "20" weight="40">
+  
+ </p>
+
+## &#128221; GitHub Stats
+<a href="https://github.com/veereshbv04/veereshbv04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veereshbv04&title_color=ffffff&text_color=c9cacc&icon_color=4bbc8a&bg_color=1d1f21&langs_count=3" />
+ </a>
+     
+
+
+
+
+## Connect
+ If you want to talk to me, discuss anything or if you have any opportunity for me, feel free to connect with me through one of these handles .
+- [Mail](veereshbv04@gmail.com)   
 - [LinkedIn](https://www.linkedin.com/in/veereshbv04/)
 - [Twitter](https://twitter.com/veereshbv04)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
 
