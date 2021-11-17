@@ -5,7 +5,7 @@ I am a final year Computer Science Student from Bengaluru. I enjoy writing code.
 I have interest in Web Development and currently improving my skills on it.
 I have also worked on Android development using Flutter.<br>
 
- All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my [portfolio site.](https://veereshbv.netlify.app/) <br>
+ All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my [Portfolio Site.](https://veereshbv.netlify.app/) <br>
 
 Recently I have developed my interest in writing Techniical Blogs, you can check them here at [Hashnode](https://veereshbv04.hashnode.dev/)
 
