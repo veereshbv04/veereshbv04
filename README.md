@@ -7,7 +7,7 @@ I have also worked on Android development using Flutter.<br>
 
  All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my [Portfolio Site.](https://veereshbv.netlify.app/) <br>
 
-Recently I have developed my interest in writing Techniical Blogs, you can check them here at [Hashnode](https://veereshbv04.hashnode.dev/)
+Recently, I have developed my interest in writing Techniical Blogs, you can check them here at [Hashnode](https://veereshbv04.hashnode.dev/)
 
 
 
@@ -32,7 +32,7 @@ Recently I have developed my interest in writing Techniical Blogs, you can check
 
 ## Connect
  If you want to talk to me, discuss anything or if you have any opportunity for me, feel free to connect with me through one of these handles .
-- [Mail](veereshbv04@gmail.com)   
+- <p><a href="mailto:veereshbv04@gmail.com">Mail</a></p>
 - [LinkedIn](https://www.linkedin.com/in/veereshbv04/)
 - [Twitter](https://twitter.com/veereshbv04)
 
