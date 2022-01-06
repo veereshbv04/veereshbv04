@@ -32,18 +32,23 @@ Recently, I have developed my interest in writing Technical Blogs, you can check
 
 <hr>
 
-## &#128221; GitHub Stats
-<a href="https://github.com/veereshbv04/veereshbv04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veereshbv04&title_color=ffffff&text_color=c9cacc&icon_color=4bbc8a&bg_color=1d1f21&langs_count=3" />
- </a>
-     
-
-<hr>
-
 ## Connect
  If you want to talk to me, discuss anything or if you have any opportunity for me, feel free to connect with me through one of these handles .
 - <p><a href="mailto:veereshbv04@gmail.com">Mail</a></p>
 - [LinkedIn](https://www.linkedin.com/in/veereshbv04/)
 - [Twitter](https://twitter.com/veereshbv04)
+
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veereshbv04&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Himadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=veereshbv04&show_icons=true&theme=radical&hide=issues&count_private=true)
+
+<!-- ## &#128221; GitHub Stats
+<a href="https://github.com/veereshbv04/veereshbv04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veereshbv04&title_color=ffffff&text_color=c9cacc&icon_color=4bbc8a&bg_color=1d1f21&langs_count=3" />
+ </a>
+      -->
 
 
