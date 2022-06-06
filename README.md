@@ -36,7 +36,7 @@ Recently, I have developed my interest in writing Technical Blogs, you can check
  If you want to talk to me, discuss anything or if you have any opportunity for me, feel free to connect with me through one of these handles .
 - [LinkedIn](https://www.linkedin.com/in/veereshbv04/)
 - [Twitter](https://twitter.com/veereshbv04)
-- <p><a href="mailto:veereshbv04@gmail.com">Mail</a></p>
+- <p><a href="mailto:veereshbv04@gmail.com">veereshbv04@gmail.com</a></p>
 
 <hr>
 
