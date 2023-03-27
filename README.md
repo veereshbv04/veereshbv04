@@ -5,7 +5,7 @@ I work for a Tech consulting firm in Bengaluru. I enjoy writing code. <br>
 I have interest in Web Development and currently improving my skills on it.
 I have also worked on Android development using Flutter.<br>
 
- All my project source code is available here in my repositories, and all front end projects are hosted and you can see them all by visiting my [Portfolio Site.](https://veereshbv04.netlify.app/) <br>
+ All my project source code is available here in my repositories <br>
 
 Recently, I have developed my interest in writing Technical Blogs, you can check them here at [Hashnode](https://veereshbv04.hashnode.dev/)
 
