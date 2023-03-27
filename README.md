@@ -1,7 +1,7 @@
 # Hi, I am Veeresh B V 👋
 
 </hr>
-I am working for a Tech consulting firm in Bengaluru. I enjoy writing code. <br>
+I work for a Tech consulting firm in Bengaluru. I enjoy writing code. <br>
 I have interest in Web Development and currently improving my skills on it.
 I have also worked on Android development using Flutter.<br>
 
